@@ -1,0 +1,18 @@
+# Required for running Nmap scans from Python
+python-nmap==0.7.1
+
+# For reading Excel files and handling tabular IP data
+pandas==2.2.2
+
+# Required by pandas to read/write .xlsx Excel files
+openpyxl==3.1.2
+
+# No need to install the following – they are part of the Python standard library:
+# - tkinter (GUI, if used in future versions)
+# - threading (for handling parallel execution)
+# - platform (to detect system OS)
+# - os (file and path operations)
+# - re (regular expressions)
+# - argparse (for CLI arguments)
+# - ipaddress (IP/subnet parsing)
+# - datetime (timestamping outputs)
