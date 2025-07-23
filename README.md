@@ -75,3 +75,11 @@ Windows:
 - VirtualBox / VMware – to simulate networks
 - Wireshark – to inspect packet-level details
 - Git – to manage and version control your project
+
+
+AUTHOR
+--------------------------------------------
+Tarun V
+Cybersecurity Student
+
+This tool is intended for educational and internal auditing purposes only. Unauthorized scanning is illegal and unethical.
