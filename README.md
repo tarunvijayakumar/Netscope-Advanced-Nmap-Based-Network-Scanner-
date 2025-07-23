@@ -78,8 +78,8 @@ Windows:
 
 
 AUTHOR
---------------------------------------------
+**--------------------------------------------**
 Tarun V
-Cybersecurity Student
+(Cybersecurity Student)
 
 This tool is intended for educational and internal auditing purposes only. Unauthorized scanning is illegal and unethical.
